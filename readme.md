@@ -4,4 +4,4 @@
 Completed solutions by Erin Oz. 
 
 # Links to solutions
-01 - <a href="/ 01 - JavaScript Drum Kit /index-START.html"></a>
+01 - <a href="/ 01 - JavaScript Drum Kit /index-START.html">Day 01</a>
