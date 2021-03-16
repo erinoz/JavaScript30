@@ -8,7 +8,7 @@ I'm commiting to completing two challenges per week.
 
 **Start Date:** 03/15/2021
 
-(TODO: Look into using Netlify to display final products.)
+(TODO: Display projects with this CSS template - https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_architect&stacked=h)
 
 Number | Day        | Description            | Status
 --|-----------|------------------------|---
