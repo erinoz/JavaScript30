@@ -1,6 +1,6 @@
 # JavaScript30 Challenge
 
-I need to improve my vanilla JS skills, so I'm doing the [JavaScript30 challenge](https://javascript30.com/) by [Wes Bos](.
+I need to improve my vanilla JS skills, so I'm doing the [JavaScript30 challenge](https://javascript30.com/) by [Wes Bos](https://wesbos.com/).
 
 I will not be completing this in 30 days. I've started the project several times, and given up in frustration because inevitably I run out of time to do it properly and feel tempted to just paste the soltuion files, which defeats the purpose of doing the challenge. 
 
