@@ -12,7 +12,7 @@ I'm commiting to completing two challenges per week.
 
 Number | Day        | Description            | Status
 --|-----------|------------------------|---
-01|03/15/2021 |[JavaScript Drum Kit](01%20-%20JavaScript%20Drum%20Kit) | 💫
+01|03/15/2021 |[JavaScript Drum Kit](01%20-%20JavaScript%20Drum%20Kit) | ✅ (3/16/2021)
 ___
 
 | Status |
