@@ -10,9 +10,10 @@ I'm commiting to completing two challenges per week.
 
 (TODO: Display projects with this CSS template - https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_architect&stacked=h)
 
-Number | Day        | Description            | Status
+Number | Start Day        | Description            | Status
 --|-----------|------------------------|---
 01|03/15/2021 |[JavaScript Drum Kit](01%20-%20JavaScript%20Drum%20Kit) | ✅ (3/16/2021)
+02|03/17/2021 |[JavaScript/CSS Clock](02%20-%20JS%20and%20CSS%20Clock/index-START.html) | ✅ (3/17/2021)
 ___
 
 | Status |
