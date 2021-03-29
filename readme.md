@@ -15,7 +15,8 @@ Number | Start Day        | Description            | Status
 01|03/15/2021 |[JavaScript Drum Kit](01%20-%20JavaScript%20Drum%20Kit) | ✅ (3/16/2021)
 02|03/17/2021 |[JavaScript/CSS Clock](02%20-%20JS%20and%20CSS%20Clock/index-START.html) | ✅ (3/17/2021)
 03|03/22/2021 |[CSS Variables](03%20-%20CSS%20Variables/index-START.html) | ✅ (03/22/2021)
-04|03/23/2021 |[Array Cardio Day 1](04%20-%20Array%20Cardio%20Day%201/index-START.html) | 💫 (03/23/2021)
+04|03/23/2021 |[Array Cardio Day 1](04%20-%20Array%20Cardio%20Day%201/index-START.html) | ✅ (03/29/2021)
+05|03/29/2021 |[Flex Panels Image Gallery](05%20-%20Flex%20Panel%20Gallery/index-START.html) | 💫 (03/29/2021)
 ___
 
 | Status |
